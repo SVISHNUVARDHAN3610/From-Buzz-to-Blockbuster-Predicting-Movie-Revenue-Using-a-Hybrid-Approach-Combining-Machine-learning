@@ -11,7 +11,7 @@
 > **"Data-Driven Decisions for the Box Office."**
 > A hybrid framework integrating **BERT embeddings**, **CatBoost**, and **LSTM** to forecast financial success with **97.8% Classification Accuracy**.
 
-[View Paper](#-citation) • [Architecture](#-system-architecture) • [Benchmarks](#-performance--benchmarks) • [Installation](#-getting-started)
+[View Paper](https://ieeexplore.ieee.org/document/10894031) • [Architecture](#-system-architecture) • [Benchmarks](#-performance--benchmarks) • [Installation](#-getting-started)
 
 </div>
 
