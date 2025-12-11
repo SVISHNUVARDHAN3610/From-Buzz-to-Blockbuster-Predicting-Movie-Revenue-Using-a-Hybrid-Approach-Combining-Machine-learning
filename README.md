@@ -144,25 +144,28 @@ print(f"Verdict: {prediction['category']}") # Output: Hit
 
 ```
 
-🖊️ Citation
-This work was presented at ICMSCI-2025. If you find this repository useful for your research, please cite:
+## 🖊️ Citation
 
-Code snippet
+This work was presented at **ICMSCI-2025**. If you find this repository or methodology useful for your research, please consider citing:
 
+```bibtex
 @inproceedings{Vardhan2025BuzzToBlockbuster,
   title={From Buzz to Blockbuster: Predicting Movie Revenue using a Hybrid Approach Combining Machine Learning and Sentiment Analysis},
   author={Vardhan, Senapathi Vishnu and Balaji, Killemsetty Viswa Sai and AshokKumar, C. and Kumar, C. Jothi},
   booktitle={Proceedings of the International Conference on Multi-Agent Systems for Collaborative Intelligence (ICMSCI-2025)},
-  pages={686--692},
   year={2025},
   publisher={IEEE},
   doi={10.1109/ICMSCI.2025.12345678}
 }
-👥 Authors
-Senapathi Vishnu Vardhan - GitHub - SRM Institute of Science and Technology
+```
 
-Killemsetty Viswa Sai Balaji - SRM Institute of Science and Technology
+## 👥 Authors
 
-C. AshokKumar - Assistant Professor, SRM IST
+* **Senapathi Vishnu Vardhan** - [GitHub](https://github.com/SVISHNUVARDHAN3610)  
+  *UG Student, Department of Computing Technologies, SRM Institute of Science and Technology*
 
-C. Jothi Kumar - Associate Professor, SRM IST
+* **Killemsetty Viswa Sai Balaji** *UG Student, Department of Computing Technologies, SRM Institute of Science and Technology*
+
+* **C. AshokKumar** *Assistant Professor, Department of Computing Technologies, SRM Institute of Science and Technology*
+
+* **C. Jothi Kumar** *Associate Professor, Department of Computing Technologies, SRM Institute of Science and Technology*
