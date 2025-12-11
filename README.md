@@ -3,7 +3,7 @@
 # 🎬 From Buzz to Blockbuster
 ### Predicting Movie Revenue via Hybrid Machine Learning & Sentiment Analysis
 
-[![Paper](https://img.shields.io/badge/IEEE-ICMSCI%202025-blue?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/)
+[![Paper](https://img.shields.io/badge/IEEE-ICMSCI%202025-blue?style=for-the-badge&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10894031)
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Model](https://img.shields.io/badge/Model-BERT%20%2B%20CatBoost-yellow?style=for-the-badge&logo=huggingface&logoColor=black)]()
