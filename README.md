@@ -31,7 +31,7 @@ We propose a **Hybrid Predictive System** that fuses quantitative metrics with q
 
 ---
 
-## 🏗️ System Architecture
+## <a name="architecture"></a>🏗️ System Architecture
 
 Our pipeline processes unstructured social data alongside structured movie metadata to feed a multi-model ensemble.
 
